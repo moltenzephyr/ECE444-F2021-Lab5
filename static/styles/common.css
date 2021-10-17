@@ -9,8 +9,8 @@ h3 {color: #00204E;}
 .common-page-heading-container {text-align: center; margin-top: 20px; margin-bottom: 20px; margin-left: auto; margin-right: auto;}
 
 /* activity 4 part 4 */
-form.common-page-form select {background: beige; border-radius 5px; border-color transparent;}
-form.common-page-form input {background: beige; border-radius 5px; border-color transparent;}
+form.common-page-form select {background: beige; border-radius: 5px; border-color: transparent;}
+form.common-page-form input {background: beige; border-radius: 5px; border-color: transparent;}
 
 /* activity 4 part 5 */
 .common-page-form-field {margin: 2px auto;} /*shorthand for 2px vertical margins and automatically sized horizontal margins */
