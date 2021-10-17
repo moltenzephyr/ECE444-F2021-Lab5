@@ -3,6 +3,8 @@ Name: Michael Zheng
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+Adding a new line into the readme indicating that I have finished the lab, up to and including activity 5
+
 
 # CARTE Education Pathways
 
