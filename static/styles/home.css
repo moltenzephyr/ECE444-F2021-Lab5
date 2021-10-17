@@ -1,1 +1,8 @@
-p{ color: green;}
+#home-page-introduction{ 
+	margin: 40px auto; /*shorthand for 40px vertical margin and automatic horizontal margin */
+}
+#home-page-feedback-text{
+	margin-top: 20px;
+	font-style: italic;
+	color: rgba(53, 53, 53, 0.705);
+}
