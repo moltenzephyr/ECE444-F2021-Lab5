@@ -1,0 +1,57 @@
+/* activity 4 part 1 */
+#results-page-table-container{
+	margin: 20px auto; /*shorthand for adding a 20px vertical margin and an automatic horizontal margin*/
+} 
+
+/* activity 4 part 2 */
+#results-page-table-container table {
+	border-radius: 20px;
+	padding: 20px;
+	border-collapse: separate;
+
+}
+
+/*activity 4 part 3*/
+#results-page-table-container table td{
+	padding: 3px;
+	
+	border-left: 1px;
+	border-left-style: solid;
+	border-left-color: #00204E;
+	
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #00204E;
+}
+
+/* activity 4 part 4 */
+#results-page-table-container table th {
+	text-align: center;
+	position: sticky;
+	top: 2px;
+	z-index: 10;
+	background: #00204E;
+	color: white;
+	
+	border-left: 1px;
+	border-left-style: solid;
+	border-left-color: #00204E;
+	
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #00204E;
+
+}
+
+
+/* activity 4 part 5 */
+#results-page-table-container table th:last-child{
+	border-right: 1px;
+	border-right-style: solid;
+	border-right-color: #00204E;
+}
+#results-page-table-container table td:last-child{
+	border-right: 1px;
+	border-right-style: solid;
+	border-right-color: #00204E;
+}
