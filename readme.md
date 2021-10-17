@@ -3,6 +3,25 @@ Name: Michael Zheng
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+# ECE444 Lab 5 Submission
+
+## ECE444 Lab 5 Screenshot (for Activity 1)
+GitHub Repo Screenshot (after cloning from the Education Pathways Repo and updating the readme.md file):
+![ECE444_Lab5_part1](https://user-images.githubusercontent.com/40171966/137639647-39c1eb34-0e18-4c4b-9b2e-beaedfc90ce8.png)
+
+## ECE444 Lab 5 Screenshots (for Activities 2-5)
+Home Page Screenshot:
+![HomePageScreenshot](https://user-images.githubusercontent.com/40171966/137636325-8f899b93-064a-4779-9b0a-fa5ac4c2a217.png)
+
+Results Page Form Screenshot:
+![ResultsPage_form_screenshot](https://user-images.githubusercontent.com/40171966/137636332-908ef41e-2711-4bae-932b-b774fd1fb5a9.png)
+
+Results Page Table Screenshot:
+![ResultsPage_table_screenshot](https://user-images.githubusercontent.com/40171966/137636339-9b578a77-f33b-44df-8116-4230c4388f1b.png)
+
+## ECE444 Lab 5 Activity 6
+
+In comparing the new, revised, styled UI with the original UI, the new UI has a hierarchal structure that the original UI was lacking. The revised UI's hierarchy explicitly explains what each section of the webpage is meant for, and provides better overall organization of the presented information.
 
 # CARTE Education Pathways
 
